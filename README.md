@@ -2,11 +2,15 @@
 A Easy Minecraft Server.
 
 
-# 点击 node-v10.16.3-x64.msi，一路回车
+点击 node-v10.16.3-x64.msi，一路回车
+
 双击init.bat
+
 然后双击Start.bat
+
 最后在游戏中 /connect 127.0.0.1:7777
-这个是解决游客不能执行命令
+
+这个东西可以解决游客不能执行命令
 
 ## 格式
 ### homedata.txt
